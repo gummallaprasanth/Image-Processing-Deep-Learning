@@ -1,4 +1,4 @@
-# Image Processing Guide: Converting RGB to Grayscale
+# Image Processing : Converting RGB to Grayscale
 
 This project is mainly focuse on image processing , how to read an image file, convert it into a NumPy array, resize the image, and convert an RGB image to Grayscale using three popular libraries: Pillow, Matplotlib, and OpenCV.
 
